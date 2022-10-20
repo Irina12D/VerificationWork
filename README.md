@@ -5,6 +5,10 @@
 ![Picture](Task.png)
 
 
+## Блок-схема алгоритма формирования массива 
+![Picture](Diagram.png)
+
+
 
 
 
